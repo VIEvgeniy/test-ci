@@ -1,1 +1,2 @@
-import CharacterInfo from 'character'
+import CharacterInfo from 'character';
+
