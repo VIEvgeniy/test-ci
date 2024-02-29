@@ -1,0 +1,1 @@
+import CharacterInfo from 'character'
