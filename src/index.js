@@ -1,2 +1,0 @@
-import CharacterInfo from 'character';
-
